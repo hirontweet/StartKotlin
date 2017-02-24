@@ -1,0 +1,6 @@
+# exclude from ignoring the following
+!KotlinJavaRuntime.xml
+
+# ignore following
+.idea/
+out/
